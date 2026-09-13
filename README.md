@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CABEÇALHO COM O PRIMEIRO GIF (VAULT BOY JOINHA) -->
-  <img src="1000294478.gif" width="140" alt="Vault Boy Waving" />
+  <img src="FO76_emote_Charisma.gif" width="140" alt="Vault Boy Waving" />
   
   <h1 align="center">
     <font color="#ffb642">⚡ WELCOME TO PIP-BOY 3000 — JOÃO PEDRO ⚡</font>
@@ -65,7 +65,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- SEGUNDO GIF (VAULT BOY NO TERMINAL) -->
-      <img src="1000294479.webp" width="220" style="border: 2px solid #ffb642; border-radius: 5px;" alt="Vault Boy Terminal" />
+      <img src="tumblr_nx9590zpOd1uk8drqo3_250.gif.webp" width="220" style="border: 2px solid #ffb642; border-radius: 5px;" alt="Vault Boy Terminal" />
     </td>
   </tr>
 </table>
