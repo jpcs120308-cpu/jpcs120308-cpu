@@ -1,7 +1,5 @@
 <div <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=window&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=WELCOME%20TO%20MY%20GITHUB%203000&fontColor=ffb642&fontSize=36&fontAlignY=45&desc=Cursando%20ADS%20%7C%201%20Ano%20de%20Programação&descColor=10ff70&descSize=16&descAlignY=68" width="100%" alt="Terminal Header">
-</div>
-
+  
 <div align="center">
   <img src="./FO76_emote_Charisma.gif" width="140" alt="Vault Boy Waving">
 </div>
@@ -70,13 +68,6 @@ do código!
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
     <img src="https://img.shields.io/badge/pgAdmin4-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin4">
-  </p>
-
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./tumblr_nx9590zpOd1uk8drqo3_250.gif.webp" width="220" alt="Vault Boy Terminal">
-    </td>
-  </tr>
 </table>
 
 <br>
