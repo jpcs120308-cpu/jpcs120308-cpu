@@ -75,8 +75,5 @@
 <!-- FOOTER TEMÁTICO FALLOUT NEW VEGAS -->
 <div align="center">
   <hr />
-  <p>
-    <font color="#ffb642"><i>"War... War never changes."</i> — Vault-Tec OS Terminal v3.0.1</font>
-  </p>
 </div>
 
