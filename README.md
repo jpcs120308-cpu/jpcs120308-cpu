@@ -1,5 +1,5 @@
 <div align="center">  <img src="./FO76_emote_Charisma.gif" width="140" alt="Vault Boy Waving">  <h1>
-    <font color="#ffb642">⚡ WELCOME TO my github 3000 — JOÃO PEDRO ⚡</font>
+    <font color="#ffb642">⚡ WELCOME TO MY GITHUB 3000 ⚡</font>
   </h1>  <p>
     <code><b>[STATUS]:</b> Cursando Análise e Desenvolvimento de Sistemas | <b>[EXP]:</b> 1 Ano em Programação</code>
   </p></div><hr><div align="center">  <h2>
