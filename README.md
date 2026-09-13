@@ -40,27 +40,6 @@
     <img src="https://img.shields.io/badge/pgAdmin4-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin4">
   </p>
 
-  <ul>
-    <li>
-      <font color="#e0d0b0">
-        <strong>Linguagens:</strong> Python, C
-      </font>
-    </li>
-
-    <li>
-      <font color="#e0d0b0">
-        <strong>Bancos de Dados:</strong> MySQL, SQL
-      </font>
-    </li>
-
-    <li>
-      <font color="#e0d0b0">
-        <strong>IDEs &amp; Ferramentas:</strong>
-        Visual Studio Code, MySQL Workbench, pgAdmin4
-      </font>
-    </li>
-  </ul>
-
 </td>
 
 <td width="35%" align="center" valign="middle">
