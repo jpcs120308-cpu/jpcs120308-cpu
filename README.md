@@ -1,5 +1,5 @@
 <div align="center">  <img src="./FO76_emote_Charisma.gif" width="140" alt="Vault Boy Waving">  <h1>
-    <font color="#ffb642">⚡ WELCOME TO PIP-BOY 3000 — JOÃO PEDRO ⚡</font>
+    <font color="#ffb642">⚡ WELCOME TO my github 3000 — JOÃO PEDRO ⚡</font>
   </h1>  <p>
     <code><b>[STATUS]:</b> Cursando Análise e Desenvolvimento de Sistemas | <b>[EXP]:</b> 1 Ano em Programação</code>
   </p></div><hr><div align="center">  <h2>
@@ -20,7 +20,7 @@
   <tr><td width="65%" valign="top">
 
   <h2>
-    <font color="#ffb642">🛠️ &gt; SPECIAL &amp; LINGUAGENS CONHECIDAS</font>
+    <font color="#ffb642">🛠️ &gt; LINGUAGENS CONHECIDAS</font>
   </h2>
 
   <p>
@@ -62,5 +62,5 @@
       <strong>USER:</strong> JOÃO PEDRO
     </font>
   </p></div><hr><div align="center">  <font color="#ffb642">
-    <strong>⚡ WAR. WAR NEVER CHANGES. ⚡</strong>
+    <strong>⚡ A lógica nunca muda ⚡</strong>
   </font></div>
