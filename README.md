@@ -73,6 +73,12 @@ do código!
 <br>
 
 <div align="center">
+  <img src="./tumblr_nx9590zpOd1uk8drqo3_250.gif.webp" width="140" alt="Vault Boy Waving">
+</div>
+
+<div align="center">
+
+<div align="center">
   <h2>
     <font color="#ffb642">☢️ &gt; VAULT-TEC DATABASE</font>
   </h2>
